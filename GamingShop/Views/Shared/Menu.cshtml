@@ -1,0 +1,14 @@
+﻿@model List<Model.EF.ProductCategory>
+@{ int i = 0;}
+@foreach (var item in Model)
+{
+    i++;
+    <li class="hassub">
+        <a href="/category/@item.MetaTitle-@item.ID">@item.Name</a>
+    </li>
+    if (i >= 2)
+    { break; }
+}
+<li class="hassub">
+    <a href="/Contact">CONTACT</a>
+</li>

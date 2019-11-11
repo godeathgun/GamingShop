@@ -1,0 +1,59 @@
+F:\ASP.netproject\GamingShop\Model\bin\Debug\Model.dll.config
+F:\ASP.netproject\GamingShop\Model\bin\Debug\Model.dll
+F:\ASP.netproject\GamingShop\Model\bin\Debug\Model.pdb
+F:\ASP.netproject\GamingShop\Model\bin\Debug\EntityFramework.dll
+F:\ASP.netproject\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASP.netproject\GamingShop\Model\bin\Debug\EntityFramework.xml
+F:\ASP.netproject\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASP.netproject\GamingShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+F:\ASP.netproject\GamingShop\Model\obj\Debug\Model.csproj.CopyComplete
+F:\ASP.netproject\GamingShop\Model\obj\Debug\Model.dll
+F:\ASP.netproject\GamingShop\Model\obj\Debug\Model.pdb
+F:\ASP.netproject\GamingShop\Model\bin\Debug\PagedList.dll
+F:\ASP.netproject\GamingShop\Model\bin\Debug\PagedList.Mvc.dll
+F:\ASP.netproject\GamingShop\Model\bin\Debug\PagedList.xml
+F:\ASP.netproject\GamingShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\Model.dll.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\Model.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\Model.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\PagedList.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\PagedList.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\obj\Debug\Model.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\Model\obj\Debug\Model.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\Model.dll.config
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\Model.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\Model.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\PagedList.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\PagedList.xml
+C:\Users\Phat Pham\Desktop\GamingShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Phat Pham\Desktop\GamingShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Phat Pham\Desktop\GamingShop\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Phat Pham\Desktop\GamingShop\Model\obj\Debug\Model.dll
+C:\Users\Phat Pham\Desktop\GamingShop\Model\obj\Debug\Model.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\Model.dll.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\Model.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\Model.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\PagedList.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\PagedList.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\obj\Debug\Model.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\obj\Debug\Model.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\Model\obj\Debug\Model.csprojAssemblyReference.cache

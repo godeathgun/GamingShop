@@ -1,0 +1,46 @@
+﻿@model Model.EF.OrderDetail
+
+@{
+    ViewBag.Title = "ViewDetailOrder";
+    Layout = "~/Views/Shared/_LayoutsCustomer.cshtml";
+}
+<div>
+    <h4>OrderDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        @using (Html.BeginForm("ViewDetailOrder", "User", FormMethod.Post))
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Product.Name) : @Html.DisplayFor(model => model.Product.Name)
+            </dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Quantity) : @Html.DisplayFor(model => model.Quantity)
+            </dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price) : @Html.DisplayFor(model => model.Price)
+            </dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Order.ShipAddress) : @Html.DisplayFor(model => model.Order.ShipAddress)
+            </dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Order.CreatedDate) : @Html.DisplayFor(model => model.Order.CreatedDate)
+            </dt>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Order.ShipMobile) : @Html.DisplayFor(model => model.Order.ShipMobile)
+            </dt>
+
+            <dt>
+                <button class="btn-primary" type="submit">Cancel Order</button>
+            </dt>
+        }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

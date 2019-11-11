@@ -1,0 +1,123 @@
+﻿@model GamingShop.Models.RegisterModel
+@using PoliteCaptcha;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+    <!-- Title Page-->
+    <title>Register</title>
+
+    <!-- Icons font CSS-->
+    <link href="/assets/client/register/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="/assets/client/register/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    <!-- Font special for pages-->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Vendor CSS-->
+    <link href="/assets/client/register/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="/assets/client/register/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+    <!-- Main CSS-->
+    <link href="/assets/client/register/css/main.css" rel="stylesheet" media="all">
+</head>
+
+<body>
+    <div class="page-wrapper bg-gra-02 p-t-130 p-b-100 font-poppins">
+        <div class="wrapper wrapper--w680">
+            <div class="card card-4">
+                <div class="card-body">
+                    <h2 class="title">Registration Form</h2>
+                    @using (Html.BeginForm("Register", "User", FormMethod.Post))
+                    {
+                        @Html.ValidationSummary(true, "", new { @class = "bg-red" })
+                        <div>
+                            @if (ViewBag.Success != null)
+                            {
+                                <div class="alert alert-success bg-blue">@ViewBag.Success</div>
+                            }
+                        </div>
+                        <div class="input-group">
+                            <label class="label">UserName</label>
+                            @*<input class="input--style-4" type="email" name="email">*@
+                            @Html.TextBoxFor(model => model.UserName, new { @class = "input--style-4", @type = "text" })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = " bg-red", @type = "text" })
+                        </div>
+                        <div class="input-group">
+                            <label class="label">Name</label>
+                            @*<input class="input--style-4" type="text" name="phone">*@
+                            @Html.TextBoxFor(model => model.Name, new { @class = "input--style-4", @type = "text" })
+                            @Html.ValidationMessageFor(model => model.Name, "", new { @class = " bg-red", @type = "text" })
+                        </div>
+                        <div class="input-group">
+                            <label class="label">Password</label>
+                            @*<input class="input--style-4" type="email" name="email">*@
+                            @Html.PasswordFor(model => model.Password, new { @class = "input--style-4", @type = "password" })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = " bg-red" })
+                        </div>
+                        <div class="input-group">
+                            <label class="label">ConfirmPassword</label>
+                            @*<input class="input--style-4" type="text" name="phone">*@
+                            @Html.PasswordFor(model => model.ConfirmPassWord, new { @class = "input--style-4", @type = "password" })
+                            @Html.ValidationMessageFor(model => model.ConfirmPassWord, "", new { @class = " bg-red" })
+                        </div>
+                        <div class="input-group">
+                            <label class="label">Address</label>
+                            @*<input class="input--style-4" type="text" name="phone">*@
+                            @Html.TextAreaFor(model => model.Address, new { @class = "input--style-4", @type = "text" })
+                            @Html.ValidationMessageFor(model => model.Address, "", new { @class = " bg-red", @type = "text" })
+                        </div>
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label class="label">Email</label>
+                                    @*<input class="input--style-4" type="email" name="email">*@
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "input--style-4", @type = "text" })
+                                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = " bg-red", @type = "text" })
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label class="label">Phone Number</label>
+                                    @*<input class="input--style-4" type="text" name="phone">*@
+                                    @Html.TextBoxFor(model => model.Phone, new { @class = "input--style-4", @type = "text" })
+                                    @Html.ValidationMessageFor(model => model.Phone, "", new { @class = " bg-red", @type = "text" })
+                                </div>
+                            </div>
+                        </div>
+                            @Html.SpamPreventionFields("Captcha")
+                        <div class="p-t-15">
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery JS-->
+    <script src="/assets/client/register/vendor/jquery/jquery.min.js"></script>
+    <script src="@Url.Content("~/Scripts/jquery-3.4.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+    @Html.SpamPreventionScript()
+    <!-- Vendor JS-->
+    <script src="/assets/client/register/vendor/select2/select2.min.js"></script>
+    <script src="/assets/client/register/vendor/datepicker/moment.min.js"></script>
+    <script src="/assets/client/register/vendor/datepicker/daterangepicker.js"></script>
+
+    <!-- Main JS-->
+    <script src="/assets/client/register/js/global.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
+<!-- end document-->

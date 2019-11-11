@@ -1,0 +1,192 @@
+﻿@model List<Model.EF.Contact>
+@{
+    ViewBag.Title = "Send";
+    Layout = "~/Views/Shared/_Layouts.cshtml";
+}
+@section assetsLink{
+    <title>GamingShop</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="GamingShop project">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/assets/client/styles/bootstrap4/bootstrap.min.css">
+    <link href="/assets/client/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/assets/client/styles/contact.css">
+    <link rel="stylesheet" type="text/css" href="/assets/client/styles/contact_responsive.css">
+    <link href="/assets/client/styles/jquery-ui.css" rel="stylesheet" />
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+        #map {
+            height: 100%;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+}
+@section js{
+    <script src="/assets/client/js/jquery-3.2.1.min.js"></script>
+
+    <script src="/assets/client/js/jquery-1.12.4.js"></script>
+    <script src="/assets/client/js/jquery-ui.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+    <script src="/assets/client/styles/bootstrap4/popper.js"></script>
+    <script src="/assets/client/styles/bootstrap4/bootstrap.min.js"></script>
+    <script src="/assets/client/plugins/greensock/TweenMax.min.js"></script>
+    <script src="/assets/client/plugins/greensock/TimelineMax.min.js"></script>
+    <script src="/assets/client/plugins/scrollmagic/ScrollMagic.min.js"></script>
+    <script src="/assets/client/plugins/greensock/animation.gsap.min.js"></script>
+    <script src="/assets/client/plugins/greensock/ScrollToPlugin.min.js"></script>
+    <script src="/assets/client/plugins/easing/easing.js"></script>
+    <script>
+
+        // This example displays a marker at the center of Australia.
+        // When the user clicks the marker, an info window opens.
+
+        function initMap() {
+            var uluru = { lat: 10.851228, lng: 106.772227 };
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 18,
+                center: uluru
+            });
+
+            var contentString = '<div id="content">' +
+                '<div id="siteNotice">' +
+                '</div>' +
+                '<h1 id="firstHeading" class="firstHeading">Uluru</h1>' +
+                '<div id="bodyContent">' +
+                '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+                'sandstone rock formation in the southern part of the ' +
+                'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) ' +
+                'south west of the nearest large town, Alice Springs; 450&#160;km ' +
+                '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major ' +
+                'features of the Uluru - Kata Tjuta National Park. Uluru is ' +
+                'sacred to the Pitjantjatjara and Yankunytjatjara, the ' +
+                'Aboriginal people of the area. It has many springs, waterholes, ' +
+                'rock caves and ancient paintings. Uluru is listed as a World ' +
+                'Heritage Site.</p>' +
+                '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
+                'https://en.wikipedia.org/w/index.php?title=Uluru</a> ' +
+                '(last visited June 22, 2009).</p>' +
+                '</div>' +
+                '</div>';
+
+            var infowindow = new google.maps.InfoWindow({
+                content: contentString
+            });
+
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map,
+                title: 'Address'
+            });
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+        }
+    </script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js">
+    </script>
+    <script src="/assets/client/js/contact.js"></script>
+    <script src="/assets/client/js/controller/baseController.js"></script>
+}
+<!-- Home -->
+
+<div class="home">
+    <div class="home_container">
+        <div class="home_background" style="background-image:url(/assets/client/images/contact.jpg)"></div>
+        <div class="home_content_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="home_content">
+                            <div class="breadcrumbs">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li>Contact</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Contact -->
+
+<div class="contact">
+    <div class="container">
+        <div class="row">
+
+            <!-- Get in touch -->
+            <div class="col-lg-8 contact_col">
+                <div class="get_in_touch">
+                    <div class="section_title">Get in Touch</div>
+                    <div class="section_subtitle">Say hello</div>
+                    <div class="contact_form_container">
+                        @using (Html.BeginForm("Send", "Contact", FormMethod.Post, new { @class = "contact_form" }))
+                        {
+                            @Html.ValidationSummary(true, "", new { @class = "bg-red" })
+                            <div>
+                                <!-- Subject -->
+                                <label for="contact_company">Subject</label>
+                                <input type="text" name="Subject" class="contact_input">
+                            </div>
+                            <div>
+                                <label for="contact_textarea">Message*</label>
+                                <textarea name="Body" class="contact_input contact_textarea" required="required"></textarea>
+                            </div>
+                            <button type="submit" class="button contact_button"><span>Send Message</span></button>
+                            <div></div>
+                            if (ViewBag.Success != null)
+                            {
+                                <div>
+                                    <div class="alert alert-success bg-blue">@ViewBag.Success</div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Info -->
+            <div class="col-lg-3 offset-xl-1 contact_col">
+                <div class="contact_info">
+                    @foreach (var item in Model)
+                    {
+                        <div class="contact_info_section">
+
+                            <div class="contact_info_title">@item.Name</div>
+                            <ul>
+                                <li>Phone: <span>@item.Phone</span></li>
+                                <li>Email: <span>@item.Email</span></li>
+                            </ul>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="row map_row">
+                <div class="col">
+
+                    <!-- Google Map -->
+                    <div class="map">
+                        <div id="google_map" class="google_map">
+                            <div class="map_container">
+                                <div id="map"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

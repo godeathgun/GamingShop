@@ -1,0 +1,31 @@
+﻿@model Model.EF.Order
+
+@{
+    ViewBag.Title = "ChangeStatus";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+<div>
+    <h4>OrderDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @using (Html.BeginForm("ChangeStatus", "Order", FormMethod.Post))
+        {
+            <dt class="form-group">
+                @Html.RadioButtonFor(model => model.Status, 1, new { @name = "status" }) @Html.Label("Đã xác nhận")
+            </dt>
+            <dt class="form-group">
+                @Html.RadioButtonFor(model => model.Status, 2, new { @name = "status" }) @Html.Label("Đang giao")
+            </dt>
+            <dt class="form-group">
+                @Html.RadioButtonFor(model => model.Status, 3, new { @name = "status" }) @Html.Label("Thành công")
+            </dt>
+            <dt class="form-group">
+                @Html.RadioButtonFor(model => model.Status, 4, new { @name = "status" }) @Html.Label("Đã hủy")
+            </dt>
+            <dt class="form-group">
+                <button type="submit" class="btn btn-primary">Confirm</button>
+            </dt>
+        }
+    </dl>
+</div>

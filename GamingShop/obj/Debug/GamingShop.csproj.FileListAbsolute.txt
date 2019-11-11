@@ -1,0 +1,336 @@
+F:\ASP.netproject\GamingShop\GamingShop\bin\GamingShop.dll.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\GamingShop.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\GamingShop.pdb
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csc.exe
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csc.exe.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csc.rsp
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csi.exe
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csi.exe.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\csi.rsp
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.AppContext.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Console.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.IO.Compression.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Claims.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.ValueTuple.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\vbc.exe
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\vbc.exe.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\vbc.rsp
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe
+F:\ASP.netproject\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\Model.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Helpers.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Mvc.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Razor.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\EntityFramework.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\Model.pdb
+F:\ASP.netproject\GamingShop\GamingShop\bin\Model.dll.config
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Razor.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Helpers.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\System.Web.Mvc.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\EntityFramework.xml
+F:\ASP.netproject\GamingShop\GamingShop\obj\Debug\GamingShop.csprojAssemblyReference.cache
+F:\ASP.netproject\GamingShop\GamingShop\obj\Debug\GamingShop.csproj.CopyComplete
+F:\ASP.netproject\GamingShop\GamingShop\obj\Debug\GamingShop.dll
+F:\ASP.netproject\GamingShop\GamingShop\obj\Debug\GamingShop.pdb
+F:\ASP.netproject\GamingShop\GamingShop\bin\EntityFramework.SqlServer.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\EntityFramework.SqlServer.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\PagedList.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\PagedList.Mvc.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\PagedList.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\PagedList.Mvc.xml
+F:\ASP.netproject\GamingShop\GamingShop\bin\CKFinder.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\CKFinder.pdb
+F:\ASP.netproject\GamingShop\GamingShop\bin\PoliteCaptcha.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\Recaptcha.dll
+F:\ASP.netproject\GamingShop\GamingShop\bin\Recaptcha.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\GamingShop.dll.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\GamingShop.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\GamingShop.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csc.exe
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csc.exe.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csc.rsp
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csi.exe
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csi.exe.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\csi.rsp
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.AppContext.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Console.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\vbc.exe
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\vbc.exe.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\vbc.rsp
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\CKFinder.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\EntityFramework.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Model.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\PagedList.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\PagedList.Mvc.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\PoliteCaptcha.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Recaptcha.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Helpers.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Mvc.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Razor.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Model.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Model.dll.config
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\CKFinder.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\EntityFramework.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\PagedList.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\PagedList.Mvc.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Recaptcha.pdb
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Razor.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Helpers.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\System.Web.Mvc.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\obj\Debug\GamingShop.csprojAssemblyReference.cache
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\obj\Debug\GamingShop.csproj.CopyComplete
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\obj\Debug\GamingShop.dll
+C:\Users\Phat Pham\OneDrive\Máy tính\GamingShop\GamingShop\obj\Debug\GamingShop.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\GamingShop.dll.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\GamingShop.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\GamingShop.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csc.exe
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csc.exe.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csc.rsp
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csi.exe
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csi.exe.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\csi.rsp
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.AppContext.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Console.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\vbc.exe
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\vbc.exe.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\vbc.rsp
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\CKFinder.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\EntityFramework.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Model.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\PagedList.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\PagedList.Mvc.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\PoliteCaptcha.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Recaptcha.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Helpers.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Mvc.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Razor.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Model.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Model.dll.config
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\CKFinder.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\EntityFramework.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\PagedList.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\PagedList.Mvc.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Recaptcha.pdb
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Razor.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Helpers.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\System.Web.Mvc.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\obj\Debug\GamingShop.csprojAssemblyReference.cache
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\obj\Debug\GamingShop.csproj.CopyComplete
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\obj\Debug\GamingShop.dll
+C:\Users\Phat Pham\Desktop\GamingShop\GamingShop\obj\Debug\GamingShop.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\GamingShop.dll.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\GamingShop.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\GamingShop.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csc.exe
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csc.exe.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csc.rsp
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csi.exe
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csi.exe.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\csi.rsp
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.AppContext.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Console.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\vbc.exe
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\vbc.exe.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\vbc.rsp
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\CKFinder.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\EntityFramework.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Model.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\PagedList.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\PagedList.Mvc.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\PoliteCaptcha.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Recaptcha.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Helpers.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Mvc.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Razor.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Model.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Model.dll.config
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\CKFinder.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\EntityFramework.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\PagedList.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\PagedList.Mvc.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Recaptcha.pdb
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Razor.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Helpers.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\System.Web.Mvc.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\obj\Debug\GamingShop.csprojAssemblyReference.cache
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\obj\Debug\GamingShop.csproj.CopyComplete
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\obj\Debug\GamingShop.dll
+C:\Users\Phat Pham\Documents\Project\GamingShop\GamingShop\obj\Debug\GamingShop.pdb

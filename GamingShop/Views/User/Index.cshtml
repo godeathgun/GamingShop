@@ -1,0 +1,56 @@
+﻿@model Model.EF.User
+@{
+    ViewBag.Title = "OverView";
+    Layout = "~/Views/Shared/_LayoutsCustomer.cshtml";
+}
+@{ var session = (UserLogin)Session[GamingShop.Common.CommonConstants.USER_SESSION];}
+@if (session != null)
+{
+    <div class="body-content">
+        <header class="body-header"><h3 class="body-content__title heading--200">Profile</h3></header><div class="row">
+            <div class="col col-md-12">
+                @using (Html.BeginForm("Index", "User", FormMethod.Get))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-3" }) : @Model.UserName
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-3" }) : @Model.Name
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-3" }) : @Model.Address
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-3" }) : @Model.Email
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label col-md-3" }) : @Model.Phone
+                    </div>
+
+                    <div class="col col-md-12">
+                        <div class="preview__body">
+                            <a href="/User/Edit/@Model.ID" class="btn btn-primary">Edit</a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col col-md-12">
+            <h4 class="preview__title">U need to sign in</h4><div class="preview__body">
+                <p>
+                    Need to delete your account?
+            </div>
+        </div>
+    </div>
+}
